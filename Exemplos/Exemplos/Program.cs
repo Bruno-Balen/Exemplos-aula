@@ -1,3 +1,13 @@
 ﻿using System;
+using Exemplo1;
 
-Console.WriteLine("Hello, World!");
+Importacao importacao = new();
+
+var produtos = importacao.CoverterParaLista();
+
+foreach (var produto in produtos)
+{
+    Console.WriteLine(produto.id + " " + produto.name);
+}
+
+//Console.WriteLine("Hello, World!");

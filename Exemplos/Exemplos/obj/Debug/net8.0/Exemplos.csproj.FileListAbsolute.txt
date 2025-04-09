@@ -1,0 +1,15 @@
+C:\Repositorios\Paradigmas\Exemplos-aula\Exemplos\Exemplos\bin\Debug\net8.0\Exemplos.exe
+C:\Repositorios\Paradigmas\Exemplos-aula\Exemplos\Exemplos\bin\Debug\net8.0\Exemplos.deps.json
+C:\Repositorios\Paradigmas\Exemplos-aula\Exemplos\Exemplos\bin\Debug\net8.0\Exemplos.runtimeconfig.json
+C:\Repositorios\Paradigmas\Exemplos-aula\Exemplos\Exemplos\bin\Debug\net8.0\Exemplos.dll
+C:\Repositorios\Paradigmas\Exemplos-aula\Exemplos\Exemplos\bin\Debug\net8.0\Exemplos.pdb
+C:\Repositorios\Paradigmas\Exemplos-aula\Exemplos\Exemplos\obj\Debug\net8.0\Exemplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\Paradigmas\Exemplos-aula\Exemplos\Exemplos\obj\Debug\net8.0\Exemplos.AssemblyInfoInputs.cache
+C:\Repositorios\Paradigmas\Exemplos-aula\Exemplos\Exemplos\obj\Debug\net8.0\Exemplos.AssemblyInfo.cs
+C:\Repositorios\Paradigmas\Exemplos-aula\Exemplos\Exemplos\obj\Debug\net8.0\Exemplos.csproj.CoreCompileInputs.cache
+C:\Repositorios\Paradigmas\Exemplos-aula\Exemplos\Exemplos\obj\Debug\net8.0\Exemplos.sourcelink.json
+C:\Repositorios\Paradigmas\Exemplos-aula\Exemplos\Exemplos\obj\Debug\net8.0\Exemplos.dll
+C:\Repositorios\Paradigmas\Exemplos-aula\Exemplos\Exemplos\obj\Debug\net8.0\refint\Exemplos.dll
+C:\Repositorios\Paradigmas\Exemplos-aula\Exemplos\Exemplos\obj\Debug\net8.0\Exemplos.pdb
+C:\Repositorios\Paradigmas\Exemplos-aula\Exemplos\Exemplos\obj\Debug\net8.0\Exemplos.genruntimeconfig.cache
+C:\Repositorios\Paradigmas\Exemplos-aula\Exemplos\Exemplos\obj\Debug\net8.0\ref\Exemplos.dll
